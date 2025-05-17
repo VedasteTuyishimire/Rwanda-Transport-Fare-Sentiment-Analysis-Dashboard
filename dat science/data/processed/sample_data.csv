@@ -1,0 +1,21 @@
+id,text,created_at,lang,likes,retweets,replies,keyword,sentiment,confidence
+1,"The new distance-based fare system is very fair and transparent!",2024-05-17 10:00:00,en,15,5,2,"transport pricing",positive,0.92
+2,"These new bus fares are too expensive for daily commuters",2024-05-17 11:00:00,en,20,8,5,"Rwanda bus fare",negative,0.85
+3,"Not sure how I feel about the new transport pricing system",2024-05-17 12:00:00,en,5,1,0,"transport pricing",neutral,0.78
+4,"Ikiguzi cy'urugendo kirakwiye kandi kirasobanutse",2024-05-17 13:00:00,rw,25,10,3,"ikiguzi cy'urugendo",positive,0.89
+5,"The distance calculation seems accurate #RwandaTransport",2024-05-17 14:00:00,en,12,4,1,"#RwandaTransport",positive,0.95
+6,"Bus fares need to be more affordable for students",2024-05-17 15:00:00,en,30,15,8,"Rwanda bus fare",negative,0.88
+7,"The new system helps me plan my travel budget better",2024-05-17 16:00:00,en,18,6,2,"distance based fare",positive,0.91
+8,"Implementation of the new system needs improvement",2024-05-17 17:00:00,en,22,7,4,"transport pricing",neutral,0.82
+9,"Long distance routes are becoming too expensive",2024-05-17 18:00:00,en,28,12,6,"Rwanda transport fare",negative,0.87
+10,"Great to see modern pricing in public transport",2024-05-17 19:00:00,en,16,5,1,"transport pricing",positive,0.93
+11,"The bus service quality has improved with the new system",2024-05-17 20:00:00,en,45,20,12,"transport pricing",positive,0.94
+12,"Students and elderly need special fare considerations",2024-05-17 20:30:00,en,55,25,15,"Rwanda bus fare",negative,0.89
+13,"The mobile app for checking fares works well",2024-05-17 21:00:00,en,30,12,5,"distance based fare",positive,0.88
+14,"Waiting times between buses need improvement",2024-05-17 21:30:00,en,25,8,6,"service quality",neutral,0.85
+15,"Peak hour pricing is reasonable for managing crowds",2024-05-17 22:00:00,en,35,15,8,"transport pricing",positive,0.91
+16,"Rural routes need better fare structure",2024-05-17 22:30:00,en,40,18,10,"Rwanda transport fare",negative,0.86
+17,"Digital payment system makes commuting easier",2024-05-17 23:00:00,en,38,16,7,"implementation",positive,0.93
+18,"Weekend fares should be different from weekdays",2024-05-17 23:30:00,en,28,10,5,"fare system",neutral,0.84
+19,"The new system has reduced payment disputes",2024-05-18 00:00:00,en,42,19,9,"transport pricing",positive,0.90
+20,"Night service fares need reconsideration",2024-05-18 00:30:00,en,33,14,6,"Rwanda bus fare",negative,0.87 
